@@ -1,0 +1,12 @@
+altgraph==0.17
+colored==1.4.2
+future==0.18.2
+Gooey==1.0.3.1
+numpy==1.18.4
+pefile==2019.4.18
+Pillow==7.1.2
+psutil==5.7.0
+pyinstaller @ https://github.com/pyinstaller/pyinstaller/archive/develop.zip
+pywin32-ctypes==0.2.0
+six==1.15.0
+wxPython==4.0.7
