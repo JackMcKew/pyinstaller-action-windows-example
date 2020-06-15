@@ -15,7 +15,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: PyInstaller Windows
       uses: JackMcKew/pyinstaller-action-windows@main
-      path: src
+      with:
+        path: src
 
     - uses: actions/upload-artifact@v2
       with:
