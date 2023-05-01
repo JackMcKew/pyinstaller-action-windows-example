@@ -1,6 +1,6 @@
 altgraph==0.17
 colored==1.4.2
-future==0.18.2
+future==0.18.3
 Gooey==1.0.3.1
 numpy==1.21.0
 Pillow==9.0.1
